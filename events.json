@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "AI",
+        "date": "2023-12-07",
+        "category": "IT",
+        "location": "Tashkent, Sergili",
+        "participant": [
+            1
+        ],
+        "resources": "319 room, own computer"
+    },
+    {
+        "id": 2,
+        "name": "Web Development Workshop",
+        "date": "2023-12-10",
+        "category": "Web Development",
+        "location": "Online",
+        "participant": [
+            1
+        ],
+        "resources": "Zoom link, code editor"
+    },
+    {
+        "id": 3,
+        "name": "Data Science Conference",
+        "date": "2023-12-15",
+        "category": "Data Science",
+        "location": "New York",
+        "participant": [
+            1
+        ],
+        "resources": "Conference hall, notebooks"
+    },
+    {
+        "id": 4,
+        "name": "Mobile App Development Workshop",
+        "date": "2023-12-20",
+        "category": "Mobile App Development",
+        "location": "Berlin",
+        "participant": [
+            1
+        ],
+        "resources": "Workshop room, development kits"
+    },
+    {
+        "id": 5,
+        "name": "Blockchain Seminar",
+        "date": "2023-12-25",
+        "category": "Blockchain",
+        "location": "Singapore",
+        "participant": [],
+        "resources": "Seminar hall, whitepapers"
+    },
+    {
+        "id": 6,
+        "name": "UX Design Workshop",
+        "date": "2024-01-05",
+        "category": "Design",
+        "location": "Los Angeles",
+        "participant": [
+            1
+        ],
+        "resources": "Design studio, prototyping tools"
+    },
+    {
+        "id": 7,
+        "name": "Cybersecurity Conference",
+        "date": "2024-01-10",
+        "category": "Cybersecurity",
+        "location": "London",
+        "participant": [
+            1
+        ],
+        "resources": "Security hall, threat analysis tools"
+    },
+    {
+        "id": 8,
+        "name": "Cloud Computing Summit",
+        "date": "2024-01-15",
+        "category": "Cloud",
+        "location": "San Francisco",
+        "participant": [
+            1
+        ],
+        "resources": "Summit venue, cloud platforms"
+    },
+    {
+        "id": 9,
+        "name": "Virtual Reality Expo",
+        "date": "2024-01-20",
+        "category": "Virtual Reality",
+        "location": "Tokyo",
+        "participant": [
+            1
+        ],
+        "resources": "Expo center, VR headsets"
+    },
+    {
+        "id": 10,
+        "name": "Machine Learning Symposium",
+        "date": "2024-01-25",
+        "category": "Machine Learning",
+        "location": "Washington",
+        "participant": [
+            1
+        ],
+        "resources": "Symposium hall, ML frameworks"
+    }
+]

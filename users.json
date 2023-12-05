@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "username": "ibragimov10",
+        "name": "Quvonchbek",
+        "surname": "Ibragimov",
+        "my_events": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "registered_events": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "password": "585f3b691b374d85d6883348aaad9d63b4cb6b1c9c01aa1ccd2fcb880b27d2e1023c71be0213f161f3caec468178f9266ce06c0517491feb0f181cb4a0c9e67a"
+    },
+    {
+        "id": 2,
+        "username": "otabek10",
+        "name": "Otabek",
+        "surname": "Jurabekov",
+        "my_events": [],
+        "registered_events": [],
+        "password": "585f3b691b374d85d6883348aaad9d63b4cb6b1c9c01aa1ccd2fcb880b27d2e1023c71be0213f161f3caec468178f9266ce06c0517491feb0f181cb4a0c9e67a"
+    }
+]
